@@ -1,0 +1,177 @@
+
+h4
+{
+	margin-left: 120px;
+	text-decoration: underline;
+
+}
+div
+{
+
+margin-left: 20px;
+
+}
+
+div div
+{
+display: inline-block;
+height: 25px;
+width: 150px;
+background-color: white;
+border: 2px solid #cbcfd6;
+}
+
+p
+{
+
+	position: relative;
+	bottom: 12px;
+	font-size: 16px;
+
+}
+.firstname
+{
+height: 30px;
+width: 80px;
+background-color: white;
+border: none;
+}
+
+.lastname
+{
+height: 30px;
+width: 80px;
+background-color: white;
+border: none;
+}
+
+.address
+{
+height: 30px;
+width: 65px;
+background-color: white;
+border: none;
+}
+
+.state
+{
+height: 30px;
+width: 50px;
+background-color: white;
+border: none;
+}
+
+.password
+{
+height: 30px;
+width: 70px;
+background-color: white;
+border: none;
+}
+
+.gender
+{
+height: 30px;
+width: 70px;
+background-color: white;
+border: none;
+}
+.button
+{
+border-radius: 100%;
+height: 10px;
+width: 10px;
+position: relative;
+bottom: 10px;
+
+}
+
+.like
+{
+height: 30px;
+width: 175px;
+background-color: white;
+border: none;
+}
+.tick
+{
+height: 15px;
+width: 15px;
+position: relative;
+bottom: 7px;
+}
+.yes
+{
+height: 30px;
+width: 50px;
+background-color: white;
+border: none;
+}
+
+.no 
+{
+height: 30px;
+width: 50px;
+background-color: white;
+border: none;
+}
+.coffee 
+{
+height: 30px;
+width: 500px;
+background-color: white;
+border: none;
+}
+
+.cups 
+{
+height: 30px;
+width: 150px;
+background-color: white;
+border: none;
+}
+.computer 
+{
+height: 30px;
+width: 250px;
+background-color: white;
+border: none;
+}
+.yesorno
+{
+height: 25px;
+width: 75px;
+background-color: white;
+border: 2px solid #cbcfd6;
+}
+.comments 
+{
+height: 30px;
+width: 250px;
+background-color: white;
+border: none;
+}
+
+.comment
+{
+height: 50px;
+width: 400px;
+background-color: white;
+border: 2px solid #cbcfd6;
+}
+.reset
+{
+	text-align: center;
+	border-radius: 10px;
+}
+.Send
+{
+	text-align: center;
+	border-radius: 10px;
+}
+.footer
+{
+	margin-left: 50px;
+}
+
+
